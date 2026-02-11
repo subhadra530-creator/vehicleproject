@@ -1,0 +1,14 @@
+package org.allvehicle;
+//parent Class
+public class vehicle {
+	
+	public void vehiclenecessary() {
+		System.out.println("location");
+	}
+
+	
+	public void vechicle() {
+		
+	}
+	
+}
