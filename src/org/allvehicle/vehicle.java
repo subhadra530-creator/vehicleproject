@@ -8,7 +8,7 @@ public class vehicle {
 
 	
 	public void vechicle() {
-		
+		System.out.println("subbu");
 	}
 	
 }
